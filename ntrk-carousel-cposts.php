@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Netireki – Custom Posts Carousel
-Plugin URI: https://www.netireki.com/plugins/ntrk-carousel-cposts
+Plugin URI: https://github.com/riotxoa/ntrk-carousel-cposts
 Description: Create animated and responsive Custom Posts Carousels, and insert them in any page or post using a shortcode.
 Version: 1.0.0
 Author: Ricardo Otxoa
