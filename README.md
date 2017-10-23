@@ -1,5 +1,4 @@
-# Netireki – Custom Posts Carousel
-## WordPress Plugin ### (ntrk-carousel-cposts)
+# Netireki – Custom Posts Carousel (ntrk-carousel-cposts WordPress Plugin)
 Plugin de WordPress para construir carruseles animados y responsive. Cada carrusel dispone de un shortcode único para mostrarlo en cualquier página o entrada de WordPress.
 
 # Instalación
