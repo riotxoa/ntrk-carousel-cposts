@@ -1,0 +1,11 @@
+.ntrk-slide {
+    border:1px solid lightgray;
+    height:300px;
+    margin:15px;
+    padding:15px;
+    text-align:center;
+}
+.ntrk-image img {
+    margin:0 auto;
+    margin-bottom:25px;
+}
