@@ -1,4 +1,5 @@
-# ntrk-carousel-cposts
+# Netireki – Custom Posts Carousel
+## WordPress Plugin ### (ntrk-carousel-cposts)
 Plugin de WordPress para construir carruseles animados y responsive. Cada carrusel dispone de un shortcode único para mostrarlo en cualquier página o entrada de WordPress.
 
 # Instalación
@@ -37,7 +38,7 @@ Puede crear cuantos carruseles desee.
     - **Breakpoint (px)**: valor numérico expresado en píxeles que marca la anchura máxima de pantalla hasta la que tendrán efecto los valores introducidos.
     - **Slides to show**: número de diapositivas que se mostrarán al mismo tiempo dentro del carrusel para anchos de pantalla menores o iguales que el valor introducido en el campo Breakpoint.
     - **Slides to scroll**: número de diapositivas que se desplazarán en cada transición animada para anchos de pantalla menores o iguales que el valor introducido en el campo Breakpoint.
-  - **Slides:
+  - **Slides***:
     Permite añadir un número ilimitado de diapositivas al carrusel:
     - **Image**: imagen vinculada a la diapositiva. Seleccionar una.
     - **Slide Text**: texto descriptivo vinculado a la diapositiva. Permite insertar etiquetas HTML para introducir enlaces u otros elementos.
